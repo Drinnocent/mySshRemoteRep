@@ -5,4 +5,8 @@ how is work boss are you getting things dones
 
 well well hard work is essential
 
+<<<<<<< HEAD
 But then you are trying stop complaining brother work work
+=======
+Are you working hard Mr Khanyile  //"Remotely"
+>>>>>>> 827ef44f058b0f46f4406b7f39fca1f3f263ba39
